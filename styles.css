@@ -1,0 +1,86 @@
+a {
+    margin-left: 30px;
+    margin-top: 10px;
+
+
+}
+.logo {
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    margin-left: 250px;
+
+
+
+}
+.top {
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+
+
+}
+.link1 {
+
+    display: flex;
+    margin-left: 1000px;
+    
+    
+
+}
+.midheader {
+    display: flex;
+    margin-left: 125px;
+    margin-top: 100px;
+
+
+
+
+}
+.midheaderpara {
+
+    display: flex;
+    flex-wrap: wrap;
+   width: 1000px;
+    
+
+
+}
+p {
+    display: flex;
+    margin-left: 250px;
+    
+
+}
+.sign-up {
+    display: flex;
+    margin-left: 250px;
+
+
+
+}
+.animage {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+
+
+}
+body {
+    display: flex;
+
+
+}
+
+
+
+
+
+
+
+.paraimage {
+    display: flex;
+  
+
+
+}
