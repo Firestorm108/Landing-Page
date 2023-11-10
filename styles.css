@@ -1,6 +1,15 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: rgb(31,41,55);
+    color: white;
+    margin: 0px;
+
+}
+
 a {
     margin-left: 30px;
     margin-top: 10px;
+    color: white;
 
 
 }
@@ -8,6 +17,7 @@ a {
     display: flex;
     justify-content: flex-start;
     align-items: flex-start;
+    
     
 
 
@@ -32,6 +42,7 @@ a {
     display: flex;
     margin-left: 125px;
     margin-top: 100px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 
 
 
@@ -42,6 +53,7 @@ a {
     display: flex;
     flex-wrap: wrap;
    width: 1250px;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
    
     
 
@@ -90,6 +102,8 @@ body {
     justify-content: center;
     align-items: center;
     margin-left: 250px;
+    color: black;
+   
 
 
 }
@@ -103,12 +117,14 @@ body {
     color: black;
     border-radius: 4px;
     border-radius: 7%;
+    
 }
 .squares {
     display: flex;
     flex-direction: row;
     justify-content: center;
     margin-left: 250px;
+   
     
   
     
@@ -131,14 +147,17 @@ body {
     
 
 }
-.signupbutton {
-    justify-content: center;
-    display: flex;
-    margin-left: 50px;
+ .sign-up {
+    
+    color: white;
+    background-color: rgb(41, 72, 192);
+    border: lightblue;
+
+ }
 
 
 
-}
+
 
 .signupword {
     display: flex;
@@ -150,5 +169,25 @@ body {
     display: flex;
     justify-content: center;
     margin-top: 250px;
+
+}
+
+.sec2 {
+    background-color: white;
+   width: 100%;
+   margin: 0px;
+   padding-right: 450px;
+
+}
+
+.sec3 {
+    background-color: rgb(187, 195, 207);
+    width: 100%;
+    margin: 0px;
+    padding-right: 450px;
+    padding-top: 1px;
+    padding-left: 50px;
+    padding-bottom: 50px;
+
 
 }
