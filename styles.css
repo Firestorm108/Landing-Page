@@ -151,7 +151,7 @@ body {
     
     color: white;
     background-color: rgb(41, 72, 192);
-    border: lightblue;
+   
 
  }
 
@@ -190,4 +190,8 @@ body {
     padding-bottom: 50px;
 
 
+}
+.signup {
+    display: flex;
+    background-color: rgb(41, 72, 192);
 }
