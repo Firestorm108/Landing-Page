@@ -112,3 +112,39 @@ body {
     
 
 }
+.quote {
+    display: flex;
+    justify-content: center;
+    margin-top: 200px;
+
+
+}
+.signup {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 250px;
+    
+
+}
+.signupbutton {
+    justify-content: center;
+    display: flex;
+    margin-left: 50px;
+
+
+
+}
+
+.signupword {
+    display: flex;
+    justify-content: center;
+
+
+}
+.footer {
+    display: flex;
+    justify-content: center;
+    margin-top: 250px;
+
+}
