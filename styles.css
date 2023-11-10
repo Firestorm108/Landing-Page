@@ -93,17 +93,31 @@ body {
 
 }
 .square {
+    margin: 25px;
     display: flex;
+    flex-direction: row;
     height: 150px;
     width: 150px;
     border: solid 2px black;
     color: black;
+    border-radius: 4px;
+    border-radius: 7%;
 }
 .squares {
     display: flex;
     flex-direction: row;
     justify-content: center;
+    
   
     
+
+}
+.squarecaptions
+    {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+       
+
 
 }
